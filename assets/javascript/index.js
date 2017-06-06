@@ -39,7 +39,7 @@ $("button").on("click", function() {
 
 	var exercise = $(this).attr("name");
 
-	var queryURL = "http://api.giphy.com/v1/gifs/search?q=" +
+	var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
         exercise + "&api_key=dc6zaTOxFJmzC&limit=10";
 
     $.ajax({
