@@ -1,4 +1,4 @@
-var topics = ["squat", "deadlift", "bench press", "kettlebell swing", "pull-up", "push-up", "sit-up"];
+var topics = ["squat", "deadlift", "bench press", "kettlebell", "pull-up", "push-up", "sit-up"];
 
 	function renderButtons() {
 
